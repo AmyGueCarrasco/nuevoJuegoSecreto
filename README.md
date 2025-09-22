@@ -31,6 +31,18 @@ Para poder utilizar el juego se requiere:
 
 ## Ejemplos de uso:
 
+![Pagina de inicio](https://github.com/AmyGueCarrasco/nuevoJuegoSecreto/blob/main/pagInciio.png)
+![Añade un amigo](https://github.com/AmyGueCarrasco/nuevoJuegoSecreto/blob/main/pasoUno.png)
+![Comienza lista](https://github.com/AmyGueCarrasco/nuevoJuegoSecreto/blob/main/pasoDos.png)
+![Muestra lista de amigos](https://github.com/AmyGueCarrasco/nuevoJuegoSecreto/blob/main/pasoTres.png)
+![Sortear amigo secreto](https://github.com/AmyGueCarrasco/nuevoJuegoSecreto/blob/main/pasoCuatro.png)
+![Muestra amigo secreto](https://github.com/AmyGueCarrasco/nuevoJuegoSecreto/blob/main/pasoCinco.png)
+![Repite Sorteo](https://github.com/AmyGueCarrasco/nuevoJuegoSecreto/blob/main/pasoSeis.png)
+![Nueva lista](https://github.com/AmyGueCarrasco/nuevoJuegoSecreto/blob/main/pasoSiete.png)
+![No permite agregar vacio](https://github.com/AmyGueCarrasco/nuevoJuegoSecreto/blob/main/alertUno.png)
+![No permite sorteo sin nombres](https://github.com/AmyGueCarrasco/nuevoJuegoSecreto/blob/main/alertDos.png)
+
+
 ## Tecnologias utilizadas.
 
 	-**HTML**  -> Estructura del proyecto
