@@ -1,11 +1,11 @@
-#Juego del amigo secreto
+# Juego del amigo secreto
 
 Aplicacion web en **JavaScript** que permite de entre una lista de amigos sin limite especifico, elegir de forma *aleatoria* a uno de ellos como amigo secreto.
 
 ##Indice:
 
 	1.[Características](#-características)
-	2.[Instalación] (#-instalación)
+	2.[Instalación](#-instalación)
 	3.[Ejemplos de uso](#-ejemplos-de-uso)
 	4.[Tecnologías utilizadas](#-tecnologías-utilizadas)
 	5.[Mejoras a desarrollar](#-mejoras-a-desarrollar)
