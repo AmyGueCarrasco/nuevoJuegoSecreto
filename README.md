@@ -20,7 +20,7 @@ Aplicacion web en **JavaScript** que permite de entre una lista de amigos sin li
 ## Instalación
 
 Para poder utilizar el juego se requiere:
-	- Clona este repositorio
+	- Clona este repositorio (https://github.com/AmyGueCarrasco/nuevoJuegoSecreto.git)
 	- Abre el archivo Index.html en tu navegador
 	- Asegurate de tener los archivos:	
 		- index.html
