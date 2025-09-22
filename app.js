@@ -41,6 +41,7 @@ function sortearAmigo(){
     amigoSorteado.push(listaAmigos[espacioSorteado]);
 
     document.querySelector('#resultado').innerHTML = `<li> Tu amigo secreto es: ${amigoSorteado}</li>`
+    document.querySelector('#listaAmigos').innerHTML = '';
     amigoSorteado = [];
     }
     return amigoSorteado;
@@ -52,7 +53,7 @@ function nuevaLista(){
     amigoSorteado= [];
     console.log(amigoSorteado);
 
-    document.querySelector('#listaAmigos').innerHTML = '';
+    //document.querySelector('#listaAmigos').innerHTML = '';
     document.querySelector('#resultado').innerHTML = '';
     limpiarCaja();
     return;
@@ -67,4 +68,5 @@ function limpiarCaja(){
 function limpiarLista(){
     document.querySelector('#listaAmigos').innerHTML = '';
     return;
+
 }
